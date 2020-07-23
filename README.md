@@ -1,4 +1,4 @@
 # OneDayDBMS2
 
-rombok
-mybatis
+* rombok
+* mybatis
